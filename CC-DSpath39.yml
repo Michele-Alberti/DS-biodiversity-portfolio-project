@@ -1,0 +1,15 @@
+name: CC-DSpath39
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - beautifulsoup4
+  - pandas
+  - jupyterlab
+  - seaborn
+  - python=3.9
+  - scipy
+  - numpy
+  - scikit-learn
+  - ipython
+  - statsmodels
